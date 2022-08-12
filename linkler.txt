@@ -1,0 +1,2 @@
+ankara satilik,1,5,15,https://www.hepsiemlak.com/ankara-satilik
+izmir satilik,1,5,15,https://www.hepsiemlak.com/izmir-satilik
